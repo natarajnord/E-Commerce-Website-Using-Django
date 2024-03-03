@@ -39,16 +39,12 @@ Django E-commerce Website App's directory structure looks as follows::
         |---requirements.txt
         |----readme.md
 
-Suggestion
-====================
-
-You must have python 3.8 or greater installed on your machine.
 
 # Usage
 
 First clone this repo and go to the project root.
 
-    $ git clone https://github.com/nabilmoiun/E-commerce-Website-Django.git
+    $ git clone https://github.com/natarajnord/E-Commerce-Website-Using-Django.git
     $ cd E-commerce-Website-Django
 
 I would recommend to work on a virtual environment. I have used ***virtualenv*** package to create a virtual environment you may wanna use other package. So install this as well if you already haven't.
